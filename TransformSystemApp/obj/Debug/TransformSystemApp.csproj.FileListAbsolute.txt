@@ -1,0 +1,7 @@
+C:\Radhika\TransformSystemApp\bin\Debug\TransformSystemApp.exe.config
+C:\Radhika\TransformSystemApp\bin\Debug\TransformSystemApp.exe
+C:\Radhika\TransformSystemApp\bin\Debug\TransformSystemApp.pdb
+C:\Radhika\TransformSystemApp\obj\Debug\TransformSystemApp.csprojAssemblyReference.cache
+C:\Radhika\TransformSystemApp\obj\Debug\TransformSystemApp.csproj.CoreCompileInputs.cache
+C:\Radhika\TransformSystemApp\obj\Debug\TransformSystemApp.exe
+C:\Radhika\TransformSystemApp\obj\Debug\TransformSystemApp.pdb

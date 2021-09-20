@@ -1,0 +1,6 @@
+﻿Name,Type,Currency,CustodianCode
+Account1,RRSP,C,Abc6Code
+Account5,RESP,U,Abc7Code
+Account2,Trading,C,Abc8Code
+Account3,FUND,U,Abc9Code
+Account4,Trading,C,Abc10Code
